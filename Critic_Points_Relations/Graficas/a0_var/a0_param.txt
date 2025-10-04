@@ -1,0 +1,7 @@
+Ejecucion del programa con 
+a0 =  1 a 30 
+a5 =  5
+s0 = -4
+p = 0.95  para max
+theta0 = 0
+theta1 = -3
